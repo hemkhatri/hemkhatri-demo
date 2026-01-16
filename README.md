@@ -1,4 +1,4 @@
 # hemkhatri-demo
 This is my demo repo.
 <br>
-__autor__ = "Hem Khatri"
+__author__ = "Hem Khatri"
